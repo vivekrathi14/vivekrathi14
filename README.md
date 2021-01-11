@@ -50,13 +50,13 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141502-287d7b00-5385-11eb-9341-812bc277442d.png"></code>
 
 
-_If you like what I do, maybe consider giving me a full-time job_ 🖥️ 
+__If you like what I do, maybe consider giving me a full-time job__ 🖥️ 
 
 
 
 
 
-📈 My GitHub Stats
+📈 **My GitHub Stats:**
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vivekrathi14&show_icons=true&theme=gotham" alt="vivekrathi14" />
 
 
