@@ -1,4 +1,3 @@
-### Hi there 👋, 
 
 <!--
 **vivekrathi14/vivekrathi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +25,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> <br>
 
-## A
-n enthusiatic, incisive Software Developer 🚀 from United States.
+## An enthusiatic, incisive Software Developer 🚀 from United States.
+
+This is a paragraph with one <span style="font-size:larger;">word</span>
+larger than the others.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
