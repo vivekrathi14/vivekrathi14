@@ -56,7 +56,7 @@ Hi, I'm Vivek Onkarnath Rathi, an enthusiatic, incisive Software Developer 🚀 
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
@@ -67,28 +67,12 @@ Hi, I'm Vivek Onkarnath Rathi, an enthusiatic, incisive Software Developer 🚀 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Markdown     5 hrs 47 mins   █████████████▓░░░░░░░░░░░   54.53 % 
-C++          1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-JavaScript   1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-SCSS         1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Text         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-```
-<!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+If you like what I do, maybe consider giving me a full-time job 🖥️ 
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  6,822 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 519 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+
+
 
 
 📈 My GitHub Stats
