@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 📝[Resume](https://github.com/vivekrathi14/CSC591-Project/files/5793720/VivekRathiResume.pdf)
 - ⚡ Fun fact: ...
 - 📌 Moto: Code to Evolve
-- 📰 Social Media: <a href="https://www.linkedin.com/in/vivekrathi14/"> <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+- <a href="https://www.linkedin.com/in/vivekrathi14/"> <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> <br>
 
 **Languages:**  
