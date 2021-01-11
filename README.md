@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 **Let's get started**
 
-- 👨🏻‍🎓 I’m working as Graduate Research Assistant under [Dr. John Paul Ore!] (https://jpwco.com/) on in depth data analysis of the ROS1/2 distro's and their repositories with Henry2 HPC cluster system.
+- 👨🏻‍🎓 I’m working as Graduate Research Assistant under [Dr. John Paul Ore!](https://jpwco.com/) on in depth data analysis of the ROS1/2 distro's and their repositories with Henry2 HPC cluster system.
 - 🧑🏻‍💻 I’m looking for full time opportunities in Software Development for Machine Learning | Deep Learning & Computer Vision | Robotics 
 <?ignore - 🤔 I’m looking for help with interactions and connecting to the professionals & like minded people in the industry to carve a niche for myself. for language specific feature exploration, recursive depth strategy, Python Embeddings in various ROS related architecture files ?>
 - 💬 Ask me about Machine Learning | Deep Learning | Robotics | Computer Vision | Robot Operating System
