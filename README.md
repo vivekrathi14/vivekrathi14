@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 **Let's get started**
 
-- 🎓 I’m working as Graduate Research Assistant at North Carolina State University under [Dr. John Paul Ore](https://jpwco.com/) on in depth data analysis of the ROS1/2 distro's and their repositories with Henry2 HPC cluster system.
+- 🎓 I’m working as Graduate Research Assistant at [North Carolina State University](https://ece.ncsu.edu/) under [Dr. John Paul Ore](https://jpwco.com/) on in depth data analysis of the ROS1/2 distro's and their repositories with Henry2 HPC cluster system.
 - 🧑🏻‍💻 I’m looking for full time opportunities in Software Development for Machine Learning | Deep Learning & Computer Vision | Robotics 
 - 💬 Ask me about Machine Learning | Deep Learning | Robotics | Computer Vision | Robot Operating System
 - 📬 How to reach me: vivekrathi14@gmail.com
