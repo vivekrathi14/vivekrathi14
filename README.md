@@ -18,12 +18,9 @@ Here are some ideas to get you started:
 
 
 
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Vivek Onkarnath Rathi... 
 
-
-<a href="https://www.linkedin.com/in/vivekrathi14/"> ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Vivek Onkarnath Rathi... <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> <br>
-
-An enthusiatic, incisive Software Developer 🚀 from United States.</p>
+#### An enthusiatic, incisive Software Developer 🚀 from United States.
 
 
 **Let's get started**
@@ -32,11 +29,13 @@ An enthusiatic, incisive Software Developer 🚀 from United States.</p>
 - 🧑🏻‍💻 I’m looking for full time opportunities in Software Development for Machine Learning | Deep Learning & Computer Vision | Robotics 
 - 🤔 I’m looking for help with interactions and connecting to the professionals & like minded people in the industry to carve a niche for myself.
 - 💬 Ask me about ML (Machine Learning) | DL (Deep Learning) | Robotics | Classical CV (Computer Vision) | ROS (Robot Operating System) | Linux (Bash)
-- 📫 How to reach me: vivekrathi14@gmail.com
+- 📬 How to reach me: vivekrathi14@gmail.com
 - 😄 Pronouns: He/His/Him
 - 📝[Resume](https://github.com/vivekrathi14/CSC591-Project/files/5793720/VivekRathiResume.pdf)
 - ⚡ Fun fact: ...
--   Moto: Code to Evolve
+- 📌 Moto: Code to Evolve
+- 📰 Social Media: <a href="https://www.linkedin.com/in/vivekrathi14/"> <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> <br>
 
 **Languages:**  
 
