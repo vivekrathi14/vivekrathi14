@@ -24,15 +24,17 @@ Here are some ideas to get you started:
 
 
 **Let's get started**
-
-- 🎓 I’m working as Graduate Research Assistant at [North Carolina State University](https://ece.ncsu.edu/) under [Dr. John Paul Ore](https://jpwco.com/) on in depth data analysis of the ROS1/2 distro's and their repositories with Henry2 HPC cluster system.
-- 🧑🏻‍💻 I’m looking for full time opportunities in Software Development for Machine Learning | Deep Learning & Computer Vision | Robotics 
+- 🎓 I’m Graduate Research Assistant at [North Carolina State University](https://ece.ncsu.edu/) under [Prof. Dr. John Paul Ore](https://jpwco.com/).
+- 🤖 I’m currently working on in-depth data analysis of the ROS1/2 distributions with Henry2 HPC cluster system. 
+- 🧑🏻‍💻 I’m looking for full time opportunities in Software Development for Machine Learning | Deep Learning & Computer Vision | Robotics.
 - 💬 Ask me about Machine Learning | Deep Learning | Robotics | Computer Vision | Robot Operating System
 - 📬 How to reach me: vivekrathi14@gmail.com
 - 📝[Resume](https://github.com/vivekrathi14/CSC591-Project/files/5793720/VivekRathiResume.pdf)
-- 📌 Moto: Code to Evolve
+- 📌 Moto: Code to Evolve!!
 - <a href="https://www.linkedin.com/in/vivekrathi14/"> <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+**Technical Strength**
 
 **Languages:**  
 
@@ -45,7 +47,7 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141443-d63c5a00-5384-11eb-8e85-efb0f6f56282.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141459-f1a76500-5384-11eb-9a10-ff28754f8d25.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141465-f9670980-5384-11eb-8ab8-8eaec8fbad9c.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141474-04ba3500-5385-11eb-9a4d-6e4c4b5f5f46.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/25856691/104151950-414d5700-53ac-11eb-99b0-b0ff459e9329.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141478-0b48ac80-5385-11eb-9428-1ff76e207a84.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141502-287d7b00-5385-11eb-9341-812bc277442d.png"></code>
 
