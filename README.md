@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Vivek Onkarnath Rathi... <a href="https://www.linkedin.com/in/vivekrathi14/">
-  <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/vivekrathi14/"> ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Vivek Onkarnath Rathi... <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> <br>
 
 An enthusiatic, incisive Software Developer 🚀 from United States.</p>
