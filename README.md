@@ -25,14 +25,12 @@ Here are some ideas to get you started:
   <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> <br>
 
-## An enthusiatic, incisive Software Developer 🚀 from United States.
+#### A
+n enthusiatic, incisive Software Developer 🚀 from United States.
 
-This is a paragraph with one <span style="font-size:larger;">word</span>
-larger than the others.
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+**Let's get started**
 
 - 👨🏻‍🎓 I’m currently working as Graduate Research Assistant under Dr. John Paul Ore on depth analysis of the ROS1/2 distro's and their repositories for language specific feature exploration, recursive depth strategy, Python Embeddings in various ROS related architecture files with Henry2 HPC cluster system.
 - 🧑🏻‍💻 I’m looking for full time opportunities in Software Development for Machine Learning | Deep Learning & Computer Vision | Robotics 
