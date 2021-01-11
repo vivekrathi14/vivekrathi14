@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🧑🏻‍💻 I’m looking for full time opportunities in Software Development for Machine Learning | Deep Learning & Computer Vision | Robotics.
 - 💬 Ask me about Machine Learning | Deep Learning | Robotics | Computer Vision | Robot Operating System
 - 📬 How to reach me: vivekrathi14@gmail.com
-- 📝[Resume](https://github.com/vivekrathi14/CSC591-Project/files/5793720/VivekRathiResume.pdf)
+- 📝[Resume](https://github.com/vivekrathi14/vivekrathi14/files/5796196/VOR-Resume-3.0.pdf)
 - 📌 Moto: Code to Evolve!!
 - <a href="https://www.linkedin.com/in/vivekrathi14/"> <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
