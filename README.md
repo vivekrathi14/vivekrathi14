@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> <br>
 
-<h4>A</h4>n enthusiatic, incisive Software Developer 🚀 from United States.
+<p><h4>A</h4>n enthusiatic, incisive Software Developer 🚀 from United States.</p>
 
 
 **Let's get started**
