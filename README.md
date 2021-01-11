@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141502-287d7b00-5385-11eb-9341-812bc277442d.png"></code>
 
 
-__If you like what I do, maybe consider giving me a full-time job__ 🖥️ 
+*_If you like what I do, maybe consider giving me a full-time job_* 🖥️ 
 
 
 
