@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 - <a href="https://www.linkedin.com/in/vivekrathi14/"> <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-**Technical Strength**
-
 **Languages:**  
 
 <code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141371-54e4c780-5384-11eb-9f01-94dadef9d439.png"></code>
