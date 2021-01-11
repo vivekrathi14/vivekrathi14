@@ -25,19 +25,15 @@ Here are some ideas to get you started:
 
 **Let's get started**
 
-- 👨🏻‍🎓 I’m currently working as Graduate Research Assistant under Dr. John Paul Ore on depth analysis of the ROS1/2 distro's and their repositories for language specific feature exploration, recursive depth strategy, Python Embeddings in various ROS related architecture files with Henry2 HPC cluster system.
+- 👨🏻‍🎓 I’m working as Graduate Research Assistant under [Dr. John Paul Ore] (https://jpwco.com/) on in depth data analysis of the ROS1/2 distro's and their repositories with Henry2 HPC cluster system.
 - 🧑🏻‍💻 I’m looking for full time opportunities in Software Development for Machine Learning | Deep Learning & Computer Vision | Robotics 
-<?ignore
-- 🤔 I’m looking for help with interactions and connecting to the professionals & like minded people in the industry to carve a niche for myself.
-?>
-- 💬 Ask me about ML (Machine Learning) | DL (Deep Learning) | Robotics | Classical CV (Computer Vision) | ROS (Robot Operating System) | Linux (Bash)
+<?ignore - 🤔 I’m looking for help with interactions and connecting to the professionals & like minded people in the industry to carve a niche for myself. for language specific feature exploration, recursive depth strategy, Python Embeddings in various ROS related architecture files ?>
+- 💬 Ask me about Machine Learning | Deep Learning | Robotics | Computer Vision | Robot Operating System
 - 📬 How to reach me: vivekrathi14@gmail.com
-- 😄 Pronouns: He/His/Him
 - 📝[Resume](https://github.com/vivekrathi14/CSC591-Project/files/5793720/VivekRathiResume.pdf)
-- ⚡ Fun fact: ...
 - 📌 Moto: Code to Evolve
 - <a href="https://www.linkedin.com/in/vivekrathi14/"> <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> <br>
+</a>
 
 **Languages:**  
 
