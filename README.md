@@ -25,11 +25,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> <br>
 
-#### A
-n enthusiatic, incisive Software Developer 🚀 from United States.
+#### An enthusiatic, incisive Software Developer 🚀 from United States.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+
 **Let's get started**
 
 - 👨🏻‍🎓 I’m currently working as Graduate Research Assistant under Dr. John Paul Ore on depth analysis of the ROS1/2 distro's and their repositories for language specific feature exploration, recursive depth strategy, Python Embeddings in various ROS related architecture files with Henry2 HPC cluster system.
@@ -40,11 +38,6 @@ n enthusiatic, incisive Software Developer 🚀 from United States.
 - 😄 Pronouns: He/His/Him
 - 📝[Resume](https://github.com/vivekrathi14/CSC591-Project/files/5793720/VivekRathiResume.pdf)
 - ⚡ Fun fact: ...
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 - 
 
 **Languages:**  
