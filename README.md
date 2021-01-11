@@ -54,18 +54,18 @@ Hi, I'm Vivek Onkarnath Rathi, an enthusiatic, incisive Software Developer 🚀 
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 - 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
-**Languages and Tools:**  
+**Languages:**  
+<code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141371-54e4c780-5384-11eb-9f01-94dadef9d439.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141284-ec95e600-5383-11eb-9594-35dc4d1f461a.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141347-2f57be00-5384-11eb-82dc-b0a7129c7677.png"></code>
 
-<code><img height="20" src="https://user-images.githubusercontent.com/25856691/104141284-ec95e600-5383-11eb-9594-35dc4d1f461a.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+**Tools:**
+<code><img height="20" src="https://user-images.githubusercontent.com/25856691/104141443-d63c5a00-5384-11eb-8e85-efb0f6f56282.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/25856691/104141459-f1a76500-5384-11eb-9a10-ff28754f8d25.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/25856691/104141465-f9670980-5384-11eb-8ab8-8eaec8fbad9c.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/25856691/104141474-04ba3500-5385-11eb-9a4d-6e4c4b5f5f46.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/25856691/104141478-0b48ac80-5385-11eb-9428-1ff76e207a84.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/25856691/104141502-287d7b00-5385-11eb-9341-812bc277442d.png"></code>
 
 
 
