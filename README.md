@@ -55,17 +55,19 @@ Hi, I'm Vivek Onkarnath Rathi, an enthusiatic, incisive Software Developer 🚀 
 - 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
 **Languages:**  
+
 <code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141371-54e4c780-5384-11eb-9f01-94dadef9d439.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141284-ec95e600-5383-11eb-9594-35dc4d1f461a.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141347-2f57be00-5384-11eb-82dc-b0a7129c7677.png"></code>
 
 **Tools:**
-<code><img height="20" src="https://user-images.githubusercontent.com/25856691/104141443-d63c5a00-5384-11eb-8e85-efb0f6f56282.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/25856691/104141459-f1a76500-5384-11eb-9a10-ff28754f8d25.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/25856691/104141465-f9670980-5384-11eb-8ab8-8eaec8fbad9c.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/25856691/104141474-04ba3500-5385-11eb-9a4d-6e4c4b5f5f46.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/25856691/104141478-0b48ac80-5385-11eb-9428-1ff76e207a84.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/25856691/104141502-287d7b00-5385-11eb-9341-812bc277442d.png"></code>
+
+<code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141443-d63c5a00-5384-11eb-8e85-efb0f6f56282.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141459-f1a76500-5384-11eb-9a10-ff28754f8d25.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141465-f9670980-5384-11eb-8ab8-8eaec8fbad9c.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141474-04ba3500-5385-11eb-9a4d-6e4c4b5f5f46.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141478-0b48ac80-5385-11eb-9428-1ff76e207a84.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141502-287d7b00-5385-11eb-9341-812bc277442d.png"></code>
 
 
 
