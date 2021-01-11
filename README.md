@@ -20,12 +20,11 @@ Here are some ideas to get you started:
 
 
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Vivek Onkarnath Rathi...
-<a href="https://www.linkedin.com/in/vivekrathi14/">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Vivek Onkarnath Rathi... <a href="https://www.linkedin.com/in/vivekrathi14/">
   <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> <br>
 
-<p><h4>A</h4>n enthusiatic, incisive Software Developer 🚀 from United States.</p>
+An enthusiatic, incisive Software Developer 🚀 from United States.</p>
 
 
 **Let's get started**
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His/Him
 - 📝[Resume](https://github.com/vivekrathi14/CSC591-Project/files/5793720/VivekRathiResume.pdf)
 - ⚡ Fun fact: ...
-- 
+-   Moto: Code to Evolve
 
 **Languages:**  
 
@@ -64,7 +63,6 @@ Here are some ideas to get you started:
 
 
 📈 My GitHub Stats
-
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vivekrathi14&show_icons=true&theme=gotham" alt="vivekrathi14" />
 
 
