@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> <br>
 
-#### An enthusiatic, incisive Software Developer 🚀 from United States.
+<h4>A</h4>n enthusiatic, incisive Software Developer 🚀 from United States.
 
 
 **Let's get started**
@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://user-images.githubusercontent.com/25856691/104141502-287d7b00-5385-11eb-9341-812bc277442d.png"></code>
 
 
-
-If you like what I do, maybe consider giving me a full-time job 🖥️ 
+<br/>
+*If you like what I do, maybe consider giving me a full-time job* 🖥️ 
 
 
 
@@ -65,7 +65,7 @@ If you like what I do, maybe consider giving me a full-time job 🖥️
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vivekrathi14&show_icons=true&theme=gotham" alt="vivekrathi14" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vivekrathi14&show_icons=true&theme=gotham" alt="vivekrathi14" />
 
 
 
