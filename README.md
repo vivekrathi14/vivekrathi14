@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine Learning | Deep Learning | Robotics | Computer Vision | Robot Operating System
 - 📬 How to reach me: vivekrathi14@gmail.com
 - 📝[Resume](https://github.com/vivekrathi14/vivekrathi14/files/5796196/VOR-Resume-3.0.pdf)
-- 💯 Fact: Programmed to Evolve 💁🏾‍♂️ !!
+- 💁🏾‍♂️ Fact: Programmed to Evolve! 💯
 - <a href="https://www.linkedin.com/in/vivekrathi14/"> <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
